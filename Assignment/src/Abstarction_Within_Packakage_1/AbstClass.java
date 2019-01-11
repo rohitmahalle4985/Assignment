@@ -4,4 +4,4 @@ public abstract class AbstClass {
 	abstract void getVal();
 	abstract void display();
 	}
-//Rohit Mahalle
+
